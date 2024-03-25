@@ -7,7 +7,7 @@ services:
     depends_on:
       - db
     environment:
-      - DATABASE_URL=postgres://postgres:postgres@db:5432/bc-painters-hub-db
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/bc-painter-hub-db
     # Runs migrations and seeds as soon as the service is up and the database is available
     command: sh -c 'npx knex migrate:latest && npx knex seed:run && node server.js'
   db:
