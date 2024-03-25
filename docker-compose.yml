@@ -27,6 +27,9 @@ services:
       - "5050:80"
     depends_on:
       - db
-
+  angular-app:
+    build: ../bc-painter-fe
+    ports:
+      - "80:80"
 volumes:
   postgres_data:
