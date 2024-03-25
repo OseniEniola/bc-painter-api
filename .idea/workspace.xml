@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b17a17a-d0dd-40b3-9284-e36f91f9f8ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/knexfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/inventoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/orderController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queries/inventoryQueries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queries/orderQueries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queries/userQueries.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/inventoryRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/orderRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dbConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/dbConfig.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/userController.ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/userController.ts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/userRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/userRoutes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +19,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -90,7 +78,7 @@
       <workItem from="1711219876013" duration="1377000" />
       <workItem from="1711224400861" duration="303000" />
       <workItem from="1711224726842" duration="1254000" />
-      <workItem from="1711227800054" duration="37128000" />
+      <workItem from="1711227800054" duration="38146000" />
     </task>
     <servers />
   </component>
