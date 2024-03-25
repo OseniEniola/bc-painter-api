@@ -2,7 +2,7 @@ module.exports = {
     development: {
         client: 'pg',
         connection: {
-            host: 'localhost',
+            host: 'db',
             user: 'postgres',
             password: 'postgres',
             database: 'bc-painter-hub-db',
